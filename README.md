@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+<a href="https://lambdaschool.com/"><img src="https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/4578/s300/untitled.png"></a>
 
-You can use the [editor on GitHub](https://github.com/louismagdaleno/lambda-UI2-project-MVP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# User Interface II Project
+The purpose of this project was to utilize basic HTML and CSS techniques to create a website from a design file.
+For the purposes of this project, the only `display` property allowed was `inline-block`.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## MVP Goals
+1. Markup the raw text provided using semantic HTML to provide context to the webpage structure.
+2. Use CSS styling, position, and display properties to create a webpage that mirrors the design file provided.
 
-### Markdown
+## How to Run
+1. Download or clone this repo to your computer.
+2. Open the folder containing the source code.
+3. Open the index.html with a web browser of your choice.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/louismagdaleno/lambda-UI2-project-MVP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## View the Live Project
+1. <a href="https://louismagdaleno.github.io/lambda-UI2-project-MVP/">Click here</a> to visit to live website.
